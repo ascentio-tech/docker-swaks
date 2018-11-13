@@ -1,4 +1,6 @@
-[![](https://badge.imagelayers.io/ascentiotech/swaks:latest.svg)](https://imagelayers.io/?images=ascentiotech/swaks:latest 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/version/ascentiotech/swaks.svg)](https://microbadger.com/images/ascentiotech/swaks "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/ascentiotech/swaks.svg)](https://microbadger.com/images/ascentiotech/swaks "Get your own image badge on microbadger.com")
+
 
 # What is SWAKS?
 
